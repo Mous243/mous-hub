@@ -1,0 +1,11 @@
+node_modules
+.next
+.env.local
+.vercel
+*.tsbuildinfo
+.db-password.local
+
+.vercel
+
+supabase/instalar.generado.sql
+.env*.local
